@@ -79,61 +79,11 @@ p {
     margin-bottom: 5px;
 }
 
-/* projetos */
-
 .divider {
     padding: 40px;
 }
 
-#cards-style img {
-    border-radius: 50%!important;
-}
-
-@media screen and (max-width:768px){
-    #cards-style {
-        width: 14rem!important;
-    }
-}
-
-@media screen and (max-width: 575px){
-    #cards-style {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 10px;
-    }
-    .my-text p {
-        padding: 0 10px;
-    }
-}
-
-
-#cards-style {
-    width: 18rem;
-    background-color: transparent!important;
-    border: none;
-    position: relative;
-}
-
-
-.card-invite {
-    display: block;
-    position: absolute;
-    bottom: 100;
-    left: 60;
-    color: white;
-    text-align: center;
-    text-transform: capitalize;
-}
-
-#my-projects .col-md-4 {
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-/* second parter */
+/* minhas skills */
 
 #wave-divider {
     padding: 0;
